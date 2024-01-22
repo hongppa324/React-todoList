@@ -1,0 +1,25 @@
+.button-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  gap: 3px;
+}
+
+.delete-btn,
+.complete-btn,
+.cancel-btn {
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+}
+
+.delete-btn {
+  border: 2px solid red;
+}
+
+.complete-btn,
+.cancel-btn {
+  border: 2px solid green;
+}

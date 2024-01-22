@@ -1,0 +1,15 @@
+.working-todo-card,
+.done-todo-card {
+  max-width: 400px;
+  height: 150px;
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  border: 2px solid #117864;
+  border-radius: 10px;
+}
+
+.working-todo-card::before,
+.done-todo-card::before {
+  content: none;
+}
