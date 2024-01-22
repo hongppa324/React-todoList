@@ -8,7 +8,7 @@
 
 - 배포 링크 :
 
-"./page-img.png"
+["./page-img.png"](https://github.com/hongppa324/React-todoList/blob/main/page-img.png)
 
 ## 🕰️ 개발 기간
 
