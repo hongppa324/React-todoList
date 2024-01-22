@@ -6,9 +6,9 @@
 
 ## 🎬 구현 사이트 이미지
 
-- 배포 링크 :
+- 배포 링크 : <http://192.168.45.100:3000/>
 
-["./page-img.png"](https://github.com/hongppa324/React-todoList/blob/main/page-img.png)
+(https://github.com/hongppa324/React-todoList/blob/main/page-img.png)
 
 ## 🕰️ 개발 기간
 
