@@ -8,7 +8,7 @@
 
 - 배포 링크 : <http://192.168.45.100:3000/>
 
-(https://github.com/hongppa324/React-todoList/blob/main/page-img.png)
+- 페이지 이미지 : "https://github.com/hongppa324/React-todoList/blob/main/page-img.png"
 
 ## 🕰️ 개발 기간
 
