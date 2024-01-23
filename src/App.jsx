@@ -1,4 +1,4 @@
-import "./App.css";
+import "./components/styles/App.css";
 import Layout from "./components/Layout";
 import TodoListContainer from "./components/TodoListContainer";
 
