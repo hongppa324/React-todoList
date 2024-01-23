@@ -58,3 +58,4 @@
 - JavaScript
 - HTML
 - CSS
+- vercel
