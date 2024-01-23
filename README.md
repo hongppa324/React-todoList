@@ -6,9 +6,9 @@
 
 ## 🎬 구현 사이트 이미지
 
-<!-- - 배포 링크 : -->
+- 배포 링크 : https://react-todo-list-woad.vercel.app/
 
-- 페이지 이미지 : "https://github.com/hongppa324/React-todoList/blob/main/page-img.png"
+- 페이지 이미지 : https://github.com/hongppa324/React-todoList/blob/main/page-img.png
 
 ## 🕰️ 개발 기간
 
