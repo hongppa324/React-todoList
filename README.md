@@ -8,7 +8,7 @@
 
 - 배포 링크 : https://react-todo-list-woad.vercel.app/
 
-- 페이지 이미지 : https://github.com/hongppa324/React-todoList/blob/main/page-img.png
+- ![Alt text](/path/to/https://github.com/hongppa324/React-todoList/blob/main/page-img.png) https://github.com/hongppa324/React-todoList/blob/main/page-img.png
 
 ## 🕰️ 개발 기간
 
